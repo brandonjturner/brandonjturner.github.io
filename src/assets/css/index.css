@@ -1,42 +1,72 @@
 body {
-    background-color: #FFCC00;
+    background-color: rgb(244,109,37);
     padding: 20px;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
   }
-  h1, h2, p, ul, li {
-    font-family: sans-serif;
+  h1, h2, h3, p, ul, li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
   }
   ul.navlinks li {
     display: inline;
     list-style-type: none;
     margin: 0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
   }
   .active {
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .ul:hover {
+    text-decoration: none;
+    color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .ul:visited {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
   }
   ul.navlinks {
     background-color: #111;
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
     padding: 0;
   }
   ul.navlinks li a {
     color: #FFF;
     font-weight: bold;
     text-decoration: none;
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+  }
+  ul.navlinks li a:hover {
+    text-decoration: none;
+    color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+  }
+  ul.navlinks:hover {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: lightgray;
   }
   .content {
     background-color: #FFF;
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
     padding: 20px;
   }
   .content h2 {
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
   }
   .content li {
     margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
   }
 /* Style all font awesome icons */
 .fa {
@@ -54,7 +84,10 @@ body {
 {
     box-sizing: border-box;
 }
-
+a:visited {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
 /* Style inputs */
 input[type=text], select, textarea {
     width: 100%;
@@ -62,6 +95,7 @@ input[type=text], select, textarea {
     border: 1px solid #ccc;
     margin-top: 6px;
     margin-bottom: 16px;
+    font-family: 'Montserrat', sans-serif;
     resize: vertical;
 }
 
@@ -69,18 +103,21 @@ input[type=submit] {
     background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     cursor: pointer;
 }
 
 input[type=submit]:hover {
     background-color: #45a049;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Style the container/contact section */
 .container {
     border-radius: 5px;
     background-color: #f2f2f2;
+    font-family: 'Montserrat', sans-serif;
     padding: 10px;
 }
 
@@ -88,6 +125,7 @@ input[type=submit]:hover {
 .column {
     float: left;
     width: 50%;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 6px;
     padding: 20px;
 }
@@ -96,6 +134,7 @@ input[type=submit]:hover {
 .row:after {
     content: "";
     display: table;
+    font-family: 'Montserrat', sans-serif;
     clear: both;
 }
 
@@ -103,6 +142,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 600px) {
     .column, input[type=submit] {
         width: 100%;
+        font-family: 'Montserrat', sans-serif;
         margin-top: 0;
     }
 }
