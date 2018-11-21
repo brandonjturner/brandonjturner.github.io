@@ -15,10 +15,21 @@ body {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
   }
-  .active {
+  a:link{
     text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
+    color:white;
   }
+  a:active {
+    text-decoration: none;
+    color:white;
+  }
+  a:visited {
+    text-decoration: none;
+    color:white;
+  }
+  a:hover{
+      text-decoration: none;
+    }
   .ul:hover {
     text-decoration: none;
     color: lightgray;
