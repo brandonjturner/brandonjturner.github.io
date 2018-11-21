@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "import-js": "^3.2.0",
     "react": "^16.6.3",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.3",
     "react-fontawesome": "^1.6.1",
+    "react-redux": "^5.1.1",
+    "react-router-bootstrap": "^0.24.4",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1"
   },
@@ -28,9 +29,7 @@
   ],
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  },
+  "devDependencies": {},
   "repository": "git+https://github.com/brandonjturner/brandonjturner.github.io.git",
   "author": "",
   "license": "ISC",

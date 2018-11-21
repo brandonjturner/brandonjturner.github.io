@@ -4,7 +4,7 @@ class Contact extends Component {
     return (
         <div class="container">
           <div style= {{ align: "center"}}>
-            <h2>Contact Us</h2>
+            <h2>Contact Here</h2>
             <p>Send me a message:</p>
           </div>
           <div class="row">

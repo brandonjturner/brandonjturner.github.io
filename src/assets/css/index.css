@@ -45,12 +45,22 @@ body {
     font-family: 'Montserrat', sans-serif;
     padding: 0;
   }
+  ul li:after {
+    content: "|"; 
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+   }
   ul.navlinks li a {
     color: #FFF;
     font-weight: bold;
     text-decoration: none;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
   }

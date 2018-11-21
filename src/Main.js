@@ -19,7 +19,7 @@ class Main extends Component {
             <a href="https://www.linkedin.com/in/brandonjturner" class="fa fa-linkedin"></a>
             <a href="https://www.github.com/brandonjturner" class="fa fa-github"></a>
           </div>
-          <ul className="navlinks">
+          <ul className="navlinks" >
             <li><NavLink exact to="/"><h3>About</h3></NavLink></li>
             <li><NavLink to="/portfolio"><h3>Portfolio</h3></NavLink></li>
             <li><NavLink to="/contact"><h3>Contact</h3></NavLink></li>
