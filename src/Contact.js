@@ -9,7 +9,7 @@ class Contact extends Component {
           </div>
           <div class="row">
             <div class="column">
-              <img src="map.JPG" style= {{ width: "100%" }} alt="Location"></img>
+              <img src="assets/images/map.JPG" style= {{ width: "100%" }} alt="Location"></img>
             </div>
             <div class="column">
               <form action="/action_page.php">

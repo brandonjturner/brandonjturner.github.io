@@ -12,10 +12,11 @@ body {
     margin: 0;
   }
   .active {
-    background-color: #0099FF;
+    text-decoration: none;
   }
   ul.navlinks {
     background-color: #111;
+    text-decoration: none;
     padding: 0;
   }
   ul.navlinks li a {
@@ -27,6 +28,7 @@ body {
   }
   .content {
     background-color: #FFF;
+    text-decoration: none;
     padding: 20px;
   }
   .content h2 {
@@ -36,8 +38,20 @@ body {
   .content li {
     margin-bottom: 10px;
   }
-
-  * {
+/* Style all font awesome icons */
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 50px;
+  color:white;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  text-decoration: none;
+  color: lightgray;
+}
+{
     box-sizing: border-box;
 }
 
