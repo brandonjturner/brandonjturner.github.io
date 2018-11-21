@@ -4,24 +4,23 @@ import {
   NavLink,
   HashRouter
 } from "react-router-dom";
-import Home from "./Home";
-import Stuff from "./Stuff";
+import About from "./Home";
+import Portfolio from "./Portfolio";
 import Contact from "./Contact";
- 
 class Main extends Component {
   render() {
     return (
       <HashRouter>
         <div>
-          <h1>Simple SPA</h1>
-          <ul className="header">
-            <li><NavLink exact to="/">Home</NavLink></li>
-            <li><NavLink to="/stuff">Stuff</NavLink></li>
+          <h1>Brandon J Turner</h1>
+          <ul className="navlinks">
+            <li><NavLink exact to="/">About</NavLink></li>
+            <li><NavLink to="/portfolio">Portfolio</NavLink></li>
             <li><NavLink to="/contact">Contact</NavLink></li>
           </ul>
           <div className="content">
-            <Route exact path="/" component={Home}/>
-            <Route path="/stuff" component={Stuff}/>
+            <Route exact path="/" component={About}/>
+            <Route path="/portfolio" component={Portfolio}/>
             <Route path="/contact" component={Contact}/>
           </div>
         </div>
@@ -29,5 +28,4 @@ class Main extends Component {
     );
   }
 }
- 
 export default Main;
