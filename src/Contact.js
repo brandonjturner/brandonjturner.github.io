@@ -17,9 +17,9 @@ class Contact extends Component {
                 <input type="text" id="name" name="name" placeholder="Your name.."></input>
                 <label for="email">Email</label>
                 <input type="text" id="email" name="email" placeholder="Your email.."></input>
-                <label for="subject">Subject</label>
-                <textarea id="subject" name="subject" placeholder="Write something.." style= {{height:"170px"}}></textarea>
-                <input type="submit" value="Submit"></input>
+                <label for="content">Message</label>
+                <textarea id="content" name="content" placeholder="Write something.." style= {{height:"170px"}}></textarea>
+                <input type="submit" value="Submit" name="Submit"></input>
               </form>
             </div>
           </div>
