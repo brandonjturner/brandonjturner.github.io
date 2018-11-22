@@ -5,6 +5,7 @@ import {
   HashRouter
 } from "react-router-dom";
 import About from "./About";
+import Resume from "./Resume";
 import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 class Main extends Component {
@@ -21,11 +22,13 @@ class Main extends Component {
           </div>
           <ul className="navlinks" >
             <li><NavLink exact to="/"><h3>About</h3></NavLink></li>
+            <li><NavLink to="/resume"><h3>Resume</h3></NavLink></li>
             <li><NavLink to="/portfolio"><h3>Portfolio</h3></NavLink></li>
             <li><NavLink to="/contact"><h3>Contact</h3></NavLink></li>
           </ul>
           <div className="content">
             <Route exact path="/" component={About}/>
+            <Route path="/resume" component={Resume}/>
             <Route path="/portfolio" component={Portfolio}/>
             <Route path="/contact" component={Contact}/>
           </div>
