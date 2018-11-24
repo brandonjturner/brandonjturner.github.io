@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import spdf from "simple-react-pdf";
 class Resume extends Component {
+
   render() {
     return (
-        <spdf.SimplePDF file="./assets/pdf/resume.pdf"/>
+      <embed src="./assets/pdf/resume.pdf" type="application/pdf" width="100%" height="600px" />
     );
   }
 }
