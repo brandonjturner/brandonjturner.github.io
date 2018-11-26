@@ -100,6 +100,16 @@ body {
     margin-bottom: 10px;
     font-family: 'Montserrat', sans-serif;
   }
+  .card {
+    margin: 20px;
+    margin-bottom: 20px;
+    height: 100%;
+  }
+  #card {
+    margin: 20px;
+    margin-bottom: 20px;
+    height: 100%;
+  }
 /* Style all font awesome icons */
 .fa {
   padding: 15px;
