@@ -23,7 +23,7 @@ class Portfolio extends Component {
 
       <div class="card">
       <h3 class="card-title">THCatalog</h3>
-          <img class="card-img-top" src="./assets/images/thcatalog.jpg" height="90" width="160" alt="THCatalog"></img>
+          <img class="card-img-top" src="./assets/images/thcatalog.JPG" height="90" width="160" alt="THCatalog"></img>
           <div class="card-body">
             <p class="card-text">Web app to search for local dispensary and strain information.  Using google maps and Marijuana Dataase API's.</p>
             <a href="https://github.com/brandonjturner/THCatalog" class="btn btn-primary">Github</a>
