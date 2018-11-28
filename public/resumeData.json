@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"I have tried most technoogies in respect to full stack development. I am best with Javascript, REACT.js, Node.js and Mongodb.",
     "education":[
       {
         "school":"Westlake High School",
@@ -40,48 +40,55 @@
       },
       {
         "school":"Moorpark Community College",
-        "degree":"Took general education college courses.",
-        "description":"Great experience of higher education from Moorpark."
+        "degree":"Completed general education.",
+        "graduated":"June 2008",
+        "description":"Great experience of higher education from Moorpark Community College."
+      },
+      {
+        "school":"UCLA Extension Program",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"November 2018",
+        "description":"Keeping myself current on the latest full stack technologies was covered extensively at UCLA Extension"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
+        "company":"Maxon Computer",
+        "title":"Education Specialist for the Americas",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Managed education material, license servers and latest versions for schools in North/South America. Support for deploying Cinema4D in any enviornment, manage render servers on AWS, multiple cloud services and private configurations"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"JonesTrading",
+        "title":"Trading/Technology Application Systems Admin",
+        "years":"January 2010 - December 2015",
+        "description":"Manage communication and prioritization of projects with multiple departments with high dollar value liaison to Software Database Employees"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"SQL",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
       },
       {
         "name":"MongoDB",
@@ -92,46 +99,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Blitz Report",
+        "category":"Web app for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
+        "image":"blitzreport.jpg",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Van Cool",
+        "category":"Web app to manage carpools for companies with van pooling services. Can export data for company records.",
+        "image":"vancool.png",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"THCatalog",
+        "category":"Web app I built for users to locate dispensiaries and strain information at one place.",
+        "image":"thcatalog.JPG",
+        "url":""
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"A React based resume/portfolio website ",
+        "image":"",
+        "url":"http://www.brandonjturner.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"My Github Repos",
+        "category":"My latest projects that I have pushed utiizing a full stack skill set.",
+        "image":"github.JPG",
+        "url":"https://github.com/brandonjturner"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
