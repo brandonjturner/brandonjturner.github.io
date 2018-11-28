@@ -28,15 +28,16 @@
         "className":"fa fa-github"
       }
     ]
-  },
+  },                                             
   "resume":{
-    "skillmessage":"I have tried most technologies in respect to full stack development. I excel with Javascript, REACT.js, Node.js and MongoDB.",
+    "skillmessage":"I have used most technologies in respect to full stack development. I excel with Javascript, REACT.js, Node.js and MongoDB.",
     "education":[
+
       {
-        "school":"Westlake High School",
-        "degree":"Diploma",
-        "graduated":"June 2006",
-        "description":"Attended the WIT (Westlake Information Technology) Academy integegrated with the high school. The program introduced us to front end development and visual basic in 10th grade. I also learned about video editing, graphic design and Microsoft Access."
+        "school":"UCLA Extension Program",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"November 2018",
+        "description":"Keeping myself current on the latest full stack technologies was covered extensively at UCLA Extension"
       },
       {
         "school":"Moorpark Community College",
@@ -45,10 +46,10 @@
         "description":"Great experience of higher education from Moorpark Community College."
       },
       {
-        "school":"UCLA Extension Program",
-        "degree":"Coding Bootcamp Certificate",
-        "graduated":"November 2018",
-        "description":"Keeping myself current on the latest full stack technologies was covered extensively at UCLA Extension"
+        "school":"Westlake High School",
+        "degree":"Diploma",
+        "graduated":"June 2006",
+        "description":"Attended the WIT (Westlake Information Technology) Academy integegrated with the high school. The program introduced us to front end development and visual basic in 10th grade. I also learned about video editing, graphic design and Microsoft Access."
       }
     ],
     "work":[
