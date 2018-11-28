@@ -15,7 +15,7 @@
       "zip": "91360"
     },
     "website": "http://www.brandonjturner.com",
-    "resumedownload":"https://brandonjturner.herokuapp.com/brandonturnerresume.doc",
+    "resumedownload":"https://brandonjturner.herokuapp.com/brandonturnerresume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have tried most technologies in respect to full stack development. I excel with Javascript, REACT.js, Node.js and Mongodb.",
+    "skillmessage":"I have tried most technologies in respect to full stack development. I excel with Javascript, REACT.js, Node.js and MongoDB.",
     "education":[
       {
         "school":"Westlake High School",
@@ -113,20 +113,38 @@
       {
         "title":"THCatalog",
         "category":"Web app I built for users to locate dispensiaries and strain information at one place.",
-        "image":"thcatalog.JPG",
+        "image":"thcatalog.png",
         "url":"https://brandonjturner.github.io/THCatalog/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume/portfolio website ",
-        "image":"brandonjturnersite.JPG",
+        "image":"brandonjturnersite.png",
         "url":"http://www.brandonjturner.com"
       },
       {
         "title":"My Github Repos",
         "category":"My latest projects that I have pushed utiizing a full stack skill set.",
-        "image":"github.JPG",
+        "image":"github.png",
         "url":"https://github.com/brandonjturner"
+      },
+      {
+        "title":"Bacon Click Game",
+        "category":"created a memory game with React. I broke up my application's UI into components, managed component state, and responded to user events.",
+        "image":"baconclicky.PNG",
+        "url":"https://clickgame88.herokuapp.com/"
+      },
+      {
+        "title":"Friend Finder",
+        "category":"Using Javascript, API Routes, and Express I created an app to match you with other users based off a survey.",
+        "image":"friendfinder.PNG",
+        "url":"https://friend-finderx.herokuapp.com/"
+      },
+      {
+        "title":"NY Times Scraper",
+        "category":"Using AJAX, Express, Cheerio, Mongoose, a logger and a body parser I created an app to scrape NY Times and show articles based off the query.",
+        "image":"nytimes.PNG",
+        "url":"https://news-search88.herokuapp.com/"
       }
     ]
   },
