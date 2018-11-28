@@ -13,6 +13,7 @@ class Contact extends Component {
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
+    
 
     return (
       <section id="contact">
@@ -73,6 +74,7 @@ class Contact extends Component {
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
            </div>
+           
 
 
             <aside className="four columns footer-widgets">
