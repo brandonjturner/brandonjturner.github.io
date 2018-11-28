@@ -102,24 +102,24 @@
         "title":"Blitz Report",
         "category":"Web app for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
         "image":"blitzreport.jpg",
-        "url":""
+        "url":"https://blitzreport.herokuapp.com/"
       },
       {
         "title":"Van Cool",
         "category":"Web app to manage carpools for companies with van pooling services. Can export data for company records.",
         "image":"vancool.png",
-        "url":""
+        "url":"https://vancoolproject.herokuapp.com/"
       },
       {
         "title":"THCatalog",
         "category":"Web app I built for users to locate dispensiaries and strain information at one place.",
         "image":"thcatalog.JPG",
-        "url":""
+        "url":"https://brandonjturner.github.io/THCatalog/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume/portfolio website ",
-        "image":"",
+        "image":"brandonjturnersite.JPG",
         "url":"http://www.brandonjturner.com"
       },
       {
