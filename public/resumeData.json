@@ -2,7 +2,7 @@
   "main": {
     "name":"Brandon Turner",
     "occupation":"Full Stack Engineer",
-    "description":"I have been involved with software since i was 12 years old, I have been producing front end projects for clients since 2004 and full stack projects since 2011",
+    "description":"I have been involved with software since I was 12 years old, I have been producing front end projects for clients since 2004 and full stack projects since 2011",
     "image":"profilepic.jpg",
     "bio":"I have been in southern California my whole life and enjoy trying new restaurants, driving on canyon roads and good coffee. Technology wise my favorites are Node.js, REACT, MongoDB and Javascript.",
     "contactmessage":"Please send me a message if you have any questions or would like more information.",
