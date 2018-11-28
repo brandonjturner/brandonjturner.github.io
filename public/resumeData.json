@@ -132,19 +132,19 @@
       {
         "title":"Bacon Click Game",
         "category":"created a memory game with React. I broke up my application's UI into components, managed component state, and responded to user events.",
-        "image":"baconclicky.PNG",
+        "image":"baconclicky.png",
         "url":"https://clickgame88.herokuapp.com/"
       },
       {
         "title":"Friend Finder",
         "category":"Using Javascript, API Routes, and Express I created an app to match you with other users based off a survey.",
-        "image":"friendfinder.PNG",
+        "image":"friendfinder.png",
         "url":"https://friend-finderx.herokuapp.com/"
       },
       {
         "title":"NY Times Scraper",
         "category":"Using AJAX, Express, Cheerio, Mongoose, a logger and a body parser I created an app to scrape NY Times and show articles based off the query.",
-        "image":"nytimes.PNG",
+        "image":"nytimes.png",
         "url":"https://news-search88.herokuapp.com/"
       }
     ]
