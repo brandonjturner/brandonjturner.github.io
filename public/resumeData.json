@@ -100,13 +100,13 @@
     "projects": [
       {
         "title":"Blitz Report",
-        "category":"Web app for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
+        "category":"Web app with authentication for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
         "image":"blitzreport.jpg",
         "url":"https://blitzreport.herokuapp.com/"
       },
       {
         "title":"Van Cool",
-        "category":"Web app to manage carpools for companies with van pooling services. Can export data for company records.",
+        "category":"Web app with authentication to manage carpools for companies with van pooling services.",
         "image":"vancool.png",
         "url":"https://vancoolproject.herokuapp.com/"
       },
