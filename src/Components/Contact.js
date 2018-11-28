@@ -5,7 +5,6 @@ class Contact extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
@@ -13,7 +12,6 @@ class Contact extends Component {
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
-    
 
     return (
       <section id="contact">
@@ -69,26 +67,24 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error </div>
+           <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
            </div>
-           
 
 
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Contact</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
+						   {email} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
 					   </p>
 				   </div>
-
             </aside>
       </div>
    </section>
