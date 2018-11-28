@@ -37,7 +37,7 @@
         "school":"UCLA Extension Program",
         "degree":"Coding Bootcamp Certificate",
         "graduated":"November 2018",
-        "description":"Keeping myself current on the latest full stack technologies was covered extensively at UCLA Extension"
+        "description":"Keeping myself current on the latest full stack technologies which were covered extensively at UCLA Extension"
       },
       {
         "school":"Moorpark Community College",
@@ -152,12 +152,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Brandon did a seamless job creating a website for all of my creative work. I have a blog, work as a hairstylist and a photographer. The website he created is aesthetically beautiful and thoughtfully designed. He was able to manifest something that met my specific needs perfectly. ",
-        "user":"Christy Murphy"
+        "text":"Brandon is an all-around professional with the skills we needed to redesign and make our non-profit’s website beautiful. The only thing that matches his professionalism is his dedication to building an excellent product.",
+        "user":"VCP"
       },
       {
-        "text":"Brandon has done a fantastic job overall. Not only the site is to design, the code is very clean and slick.",
-        "user":"Bryan Diehl"
+        "text":"Brandon turned our run of the mill website into a digital masterpiece. We have received measurable results in search engine ranking as well as click-throughs because of the changes he implemented. We cannot thank him enough!",
+        "user":"Mad About Ink"
       }
     ]
   }

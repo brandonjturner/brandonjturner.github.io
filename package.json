@@ -15,7 +15,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true \"ReactJS Resume Website Template\") ### <a href=\"https://react-resume-template.herokuapp.com/\">LIVE DEMO</a>",
+  "description": "https://www.brandonjturner.com",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
