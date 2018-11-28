@@ -5,7 +5,7 @@
     "description":"I have been involved with software since I was 12 years old, I have been producing front end projects for clients since 2004 and full stack projects since 2011",
     "image":"profilepic.jpg",
     "bio":"I have been in southern California my whole life and enjoy trying new restaurants, driving on canyon roads and good coffee. Technology wise my favorites are Node.js, REACT, MongoDB and Javascript.",
-    "contactmessage":"Please send me a message if you have any questions or would like more information.",
+    "contactmessage":"Please send me an email at me@brandonjturner.com if you have any questions or would like more information.",
     "email": "me@brandonjturner.com",
     "phone": "805-871-1525",
     "address":{
@@ -156,8 +156,8 @@
         "user":"Christy Murphy"
       },
       {
-        "text":"",
-        "user":""
+        "text":"Brandon has done a fantastic job overall. Not only the site is to design, the code is very clean and slick.",
+        "user":"Bryan Diehl"
       }
     ]
   }
