@@ -73,11 +73,11 @@
       },
       {
         "name":"SQL",
-        "level":"75%"
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"CSS",
@@ -89,7 +89,7 @@
       },
       {
         "name":"Javascript",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"MongoDB",
@@ -99,6 +99,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Hack for LA",
+        "category":"With a team we rebuilt this site using a more simple structure for easier updating. We were able to keep the same design using different technologies.",
+        "image":"hackforla.png",
+        "url":"https://hackforla.org"
+      },
       {
         "title":"Blitz Report",
         "category":"Web app with authentication for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
@@ -128,12 +134,6 @@
         "category":"My latest projects that I have pushed utiizing a full stack skill set.",
         "image":"github.png",
         "url":"https://github.com/brandonjturner"
-      },
-      {
-        "title":"Bacon Click Game",
-        "category":"created a memory game with React. I broke up my application's UI into components, managed component state, and responded to user events.",
-        "image":"baconclicky.png",
-        "url":"https://clickgame88.herokuapp.com/"
       },
       {
         "title":"Friend Finder",
