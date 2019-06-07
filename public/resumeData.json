@@ -121,7 +121,7 @@
       },
       {
         "title":"Van Cool",
-        "category":"Web app with authentication to manage carpools for companies with van pooling services.",
+        "category":"OAuth secured app manages carpools for companies with van pooling services. MongoDB, Postman, Node.js, Express, bcryptjs, body-parser, concurrently, js-empty, jsonwebtoken, mongoose, passport, passport-jwt, validator, nodemon, mLab and REDUX.",
         "image":"vancool.png",
         "url":"https://vancoolproject.herokuapp.com/"
       },
