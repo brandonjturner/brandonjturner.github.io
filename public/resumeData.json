@@ -115,7 +115,7 @@
       },
       {
         "title":"Blitz Report",
-        "category":"You can take your Fantasy Football game to the next level. Track your favorite Quarterback's stats throughout the season with real-time post-game updates.",
+        "category":"You can take your Fantasy Football game to the next level! Track your favorite Quarterback's stats throughout the season with real-time updates. Utilizing express, body-parser, morgan, express-session, connect-mongo, passport, react-router, react-dom, react-router-dom.",
         "image":"blitzreport.png",
         "url":"https://blitzreport.herokuapp.com/"
       },
