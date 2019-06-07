@@ -115,8 +115,8 @@
       },
       {
         "title":"Blitz Report",
-        "category":"Web app with authentication for Fantasy Footbal fans. Keeps track and saves QB information weekly to user profiles.",
-        "image":"blitzreport.jpg",
+        "category":"You can take your Fantasy Football game to the next level. Track your favorite Quarterback's stats throughout the season with real-time post-game updates.",
+        "image":"blitzreport.png",
         "url":"https://blitzreport.herokuapp.com/"
       },
       {
