@@ -1,0 +1,1 @@
+This site was made with NODE.JS and REACT. Saves JSON data to variables which are called from the compnents to display the formatted data.
