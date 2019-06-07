@@ -82,7 +82,6 @@ class Contact extends Component {
 						   {name}<br />
 						   {email} <br />
 						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
 					   </p>
 				   </div>
             </aside>
