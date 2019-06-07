@@ -127,9 +127,9 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume/portfolio website ",
+        "category":"A React based resume/portfolio website. Click here to view the technolgies utilized listed in the readme on Git.",
         "image":"brandonjturnersite.png",
-        "url":"http://www.brandonjturner.com"
+        "url":"https://github.com/brandonjturner/brandonjturner.github.io"
       }
     ]
   },
