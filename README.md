@@ -1,1 +1,1 @@
-This site was made with NODE.JS and REACT. Saves JSON data to variables which are called from the compnents to display the formatted data.
+This site was made with REACT, REACTDOM, NODEJS and JQUERY. Saves JSON data to variables which are called from the compnents to display the formatted data. 
