@@ -30,7 +30,7 @@
     ]
   },                                             
   "resume":{
-    "skillmessage":"I have used most technologies in respect to full stack development. I excel with Javascript, REACT.js, Node.js and MongoDB.",
+    "skillmessage":"I am proficient with Git, development operations and product management. I have used most technologies in respect to full stack development. I excel with Javascript, REACT.js, MongoDB, Git and product management.",
     "education":[
 
       {
@@ -49,7 +49,7 @@
         "school":"Westlake High School",
         "degree":"Diploma",
         "graduated":"June 2006",
-        "description":"Attended the WIT (Westlake Information Technology) Academy integegrated with the high school. The program introduced us to front end development and visual basic in 10th grade. I also learned about video editing, graphic design and Microsoft Access."
+        "description":"Attended the WIT (Westlake Information Technology) Academy integrated with the high school. The program introduced us to front end development and visual basic in 10th grade. I also learned about video editing, graphic design and Microsoft Access."
       }
     ],
     "volunteer":[
@@ -65,7 +65,7 @@
         "company":"Maxon Computer",
         "title":"Education Specialist for the Americas",
         "years":"December 2015 - Present",
-        "description":"Managed education material, license servers and latest versions for schools in North/South America. Support for deploying Cinema4D in any enviornment, manage render servers on AWS, multiple cloud services and private configurations"
+        "description":"Managed education material, license servers and latest versions for schools in North/South America. Support for deploying Cinema4D in any environment, manage render servers on AWS, multiple cloud services and private configurations"
       },
       {
         "company":"JonesTrading",
@@ -80,20 +80,12 @@
         "level":"95%"
       },
       {
-        "name":"SQL",
-        "level":"70%"
-      },
-      {
-        "name":"ReactJs",
+        "name":"React.js",
         "level":"90%"
       },
       {
-        "name":"CSS",
-        "level":"95%"
-      },
-      {
-        "name":"HTML5",
-        "level":"95%"
+        "name":"Node.js",
+        "level":"90%"
       },
       {
         "name":"Javascript",
@@ -102,6 +94,18 @@
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
       }
     ]
   },
@@ -127,7 +131,7 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume/portfolio website. Click here to view the technolgies utilized listed in the readme on Git.",
+        "category":"A React based resume/portfolio website. Click here to view the technologies utilized listed in the readme on Git.",
         "image":"brandonjturnersite.png",
         "url":"https://github.com/brandonjturner/brandonjturner.github.io/blob/master/README.md"
       }
