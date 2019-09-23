@@ -1,26 +1,17 @@
 {
-  "name": "brandonjturner",
-  "version": "0.1.0",
-  "engines": {
-    "node": "10.3.0"
-  },
-  "private": true,
+  "name": "brandonjturner.github.io",
+  "version": "1.0.0",
+  "description": "This site was made with REACT, REACTDOM, NODEJS and JQUERY. Saves JSON data to variables which are called from the compnents to display the formatted data.",
+  "main": "index.js",
   "dependencies": {
-    "jquery": "^3.2.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-ga": "^2.6.0",
-    "react-scripts": "1.0.17"
+    "react-ga": "^2.6.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "description": "https://www.brandonjturner.com",
-  "main": "index.js",
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brandonjturner/brandonjturner.github.io.git"
