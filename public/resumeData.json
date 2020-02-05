@@ -150,12 +150,6 @@
         "category":"OAuth secured app manages carpools for companies with van pooling services. MongoDB, Postman, Node.js, Express, bcryptjs, body-parser, concurrently, js-empty, jsonwebtoken, mongoose, passport, passport-jwt, validator, nodemon, mLab and REDUX.",
         "image":"vancool.png",
         "url":"https://vancoolproject.herokuapp.com/"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume/portfolio website. Click here to view the technologies utilized listed in the readme on Git.",
-        "image":"brandonjturnersite.png",
-        "url":"https://github.com/brandonjturner/brandonjturner.github.io/blob/master/README.md"
       }
     ]
   },
