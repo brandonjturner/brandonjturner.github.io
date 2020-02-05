@@ -65,7 +65,7 @@
         "company":"SmyL",
         "title":"CTO/Part Owner",
         "years":"July 2019 - Present",
-        "description":"Analyzing unique user data to compliment all aspects of their life."
+        "description":"Analyzing unique user data and biofeedback to compliment all aspects of life."
       },
       {
         "company":"Maxon Computer",
@@ -92,7 +92,7 @@
         "level":"100%"
       },
       {
-        "name":"React.js",
+        "name":"React",
         "level":"90%"
       },
       {
@@ -127,6 +127,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"SmyL",
+        "category":"Analyzing unique user data and biofeedback to compliment all aspects of life.",
+        "image":"smyl.png",
+        "url":""
+      },
       {
         "title":"Hack for LA",
         "category":"With a team we rebuilt this site using a more simple structure for easier updating. We were able to keep the same design using different technologies.",
