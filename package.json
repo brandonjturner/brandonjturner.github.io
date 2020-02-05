@@ -1,6 +1,6 @@
 {
-  "name": "brandonjturner.com",
-  "version": "0.1.0",
+  "name": "www.brandonjturner.com",
+  "version": "1.0",
   "private": true,
   "dependencies": {
     "cryptiles": "^4.1.2",
