@@ -7,12 +7,9 @@
     "bio":"Software Engineer and 3D Educator with an aptitude for learning new technologies, a thirst for efficiency and a hunger to continually challenge myself.",
     "contactmessage":"Use the form below to send me an email and I will respond ASAP.",
     "email": "me@brandonjturner.com",
-    "phone": "805-871-1525",
     "address":{
-      "street":"",
       "city":"Thousand Oaks",
-      "state":"California",
-      "zip": "91360"
+      "state":"California"
     },
     "website": "http://www.brandonjturner.com",
     "resumedownload":"https://drive.google.com/file/d/1B4S6RZdqmcx39841GFyEbbzj-bP6hYp7/view?usp=sharing",
