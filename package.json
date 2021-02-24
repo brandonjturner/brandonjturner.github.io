@@ -1,6 +1,8 @@
 {
   "homepage": "https://brandonjturner.github.io/brandonjturner",
+  "title": "brandonjturner",
   "name": "brandonjturner",
+  "url": "https://brandonjturner.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
