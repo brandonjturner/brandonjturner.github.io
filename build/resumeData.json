@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Brandon Turner",
+    "occupation":"Full Stack Engineer",
+    "description":"I have been involved with software since I was 12 years old, I have been producing front end projects for clients since 2004 and full stack projects since 2014",
+    "image":"profilepic.jpg",
+    "bio":"Software Engineer and 3D Educator with an aptitude for learning new technologies, a thirst for efficiency and a hunger to continually challenge myself.",
+    "contactmessage":"Use the form below to send me an email and I will respond ASAP.",
+    "email": "me@brandonjturner.com",
+    "address":{
+      "city":"Thousand Oaks",
+      "state":"California"
+    },
+    "website": "http://www.brandonjturner.com",
+    "resumedownload":"https://drive.google.com/file/d/1B4S6RZdqmcx39841GFyEbbzj-bP6hYp7/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brandonjturner",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://www.github.com/brandonjturner",
+        "className":"fa fa-github"
+      }
+    ]
+  },                                             
+  "resume":{
+    "skillmessage":"I am proficient with Git, development operations and product management. I have used most technologies in respect to full stack development. I excel with Javascript, REACT.js, MongoDB, Git and product management.",
+    "education":[
+
+      {
+        "school":"UCLA Extension Program",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"November 2018",
+        "description":"Keeping myself current on the latest full stack technologies which were covered extensively at UCLA Extension"
+      },
+      {
+        "school":"Moorpark Community College",
+        "degree":"Completed general education.",
+        "graduated":"June 2008",
+        "description":"Great experience of higher education from Moorpark Community College."
+      },
+      {
+        "school":"Westlake High School",
+        "degree":"Diploma",
+        "graduated":"June 2006",
+        "description":"Attended the WIT (Westlake Information Technology) Academy integrated with the high school. The program introduced us to front end development and visual basic in 10th grade. I also learned about video editing, graphic design and Microsoft Access."
+      }
+    ],
+    "volunteer":[
+      {
+      "company":"Code for America: Hack 4 LA",
+      "title":"Software Engineer",
+      "years":"November 2018 - July 2019",
+      "description":"Apply the principles and practices of the digital age to improve how government serves the American public, and how the public improves government."
+      }
+    ],
+    "work":[
+      {
+        "company":"SmyL",
+        "title":"CTO/Part Owner",
+        "years":"July 2019 - Present",
+        "description":"Analyzing unique user data and biofeedback to compliment all aspects of life."
+      },
+      {
+        "company":"Maxon Computer",
+        "title":"Channel Sales",
+        "years":"December 2015 - Present",
+        "description":"Volume sales."
+      },
+      {
+        "company":"www.brandonjturner.com",
+        "title":"Freelance Software Engineer",
+        "years":"January 2008 - Present",
+        "description":"Communicated with clients to deliver quality software projects and followed up with them to ensure that the customer was happy with the work."
+      },
+      {
+        "company":"JonesTrading",
+        "title":"Trading/Technology Application Systems Admin",
+        "years":"January 2010 - December 2015",
+        "description":"Manage communication and prioritization of projects with multiple departments with high dollar value liaison to Software Database Employees"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"React",
+        "level":"90%"
+      },
+      {
+        "name":"React Native",
+        "level":"90%"
+      },
+      {
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SmyL",
+        "category":"Utilizing React Native this app analyzes unique user data and biofeedback to compliment all aspects of life.",
+        "image":"smyl.png",
+        "url":"https://github.com/brandonjturner"
+      },
+      {
+        "title":"Hack for LA",
+        "category":"With a team we rebuilt this site using a more simple structure for easier updating. We were able to keep the same design using different technologies.",
+        "image":"hackforla.png",
+        "url":"https://hackforla.org"
+      },
+      {
+        "title":"Blitz Report",
+        "category":"You can take your Fantasy Football game to the next level! Track your favorite Quarterback's stats throughout the season with real-time updates. Utilizing express, body-parser, morgan, express-session, connect-mongo, passport, react-router, react-dom, react-router-dom.",
+        "image":"blitzreport.png",
+        "url":"https://blitzreport.herokuapp.com/"
+      },
+      {
+        "title":"Van Cool",
+        "category":"OAuth secured app manages carpools for companies with van pooling services. MongoDB, Postman, Node.js, Express, bcryptjs, body-parser, concurrently, js-empty, jsonwebtoken, mongoose, passport, passport-jwt, validator, nodemon, mLab and REDUX.",
+        "image":"vancool.png",
+        "url":"https://vancoolproject.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Brandon is an all-around professional with the skills we needed to redesign and make our non-profit’s website beautiful. The only thing that matches his professionalism is his dedication to building an excellent product.",
+        "user":"Valley Contemporary Poets"
+      },
+      {
+        "text":"Brandon turned our run of the mill website into a digital masterpiece. We have received measurable results in search engine ranking as well as click-throughs because of the changes he implemented. We cannot thank him enough!",
+        "user":"Mad About Ink"
+      }
+    ]
+  }
+}
